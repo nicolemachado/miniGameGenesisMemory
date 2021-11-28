@@ -5,3 +5,5 @@ Mini game desenvolvido em um minicurso da Digital Innovation One Labs
 Feito para treinar lógica com JavaScript :)
 
 HTML, CSS e JavaScript básico
+<br/> <br/>
+https://nicolemachado.github.io/miniGameGenesisMemory/
